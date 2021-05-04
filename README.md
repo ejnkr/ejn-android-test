@@ -6,6 +6,7 @@
 ## 목표
 - 이 저장소를 fork 하고 아래 api를 통해 결과를 가져와 샘플과 비슷한 화면을 구성 합니다.
 <pre><code>https://developers.themoviedb.org/3/movies/get-popular-movies</code></pre>
+- Api key는 <pre><code>/key.properties > tmdb_api_key</pre></code> 를 사용해주세요.
 - 비슷한 화면이라 함은 1px, 1dp 중요하지 않습니다. 화면에는 "썸네일 이미지", "제목"만 있으면 됩니다.
 - 어떤 라이브러리를 사용해도 좋습니다.
 - SwipeRefreshLayout, RecyclerView를 사용하고 infiniteScroll (lazy loading)을 구현해주세요.
