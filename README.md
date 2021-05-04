@@ -18,3 +18,6 @@
 - RxJava를 사용하면 좋아요.
 - 이미지 라이브러리는 Glide, 네트워크 라이브러리는 Retrofit2 를 사용하면 좋아요.
 - 코드를 작성하면서 고민되는 부분이 있다면 자유롭게 README 에 적어주세요.
+
+## 샘플 스크린샷
+![sample img](/img_sample.png)
